@@ -4,4 +4,4 @@ See the Full dashboard here -[App power BI link] (https://app.powerbi.com/report
 
 
 
-Screenshot 2025-01-17 224229.png
+![Power BI Project]_(Screenshot 2025-01-17 224229.png)
